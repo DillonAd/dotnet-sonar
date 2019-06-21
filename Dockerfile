@@ -5,4 +5,4 @@ RUN chmod 755 /dotnet-tools
 
 RUN ln --symbolic /dotnet-tools/dotnet-sonarscanner /bin/dotnet-sonarscanner
 
-ENTRYPOINT [ "/bin/sh" ]
+CMD [ "/bin/sh" ]

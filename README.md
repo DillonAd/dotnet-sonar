@@ -5,6 +5,7 @@
 .NET Core SDK Docker Image with SonarScanner available via the `dotnet-sonarscanner` command.
 
 ## Tags
-
-`2.2` - .NET Core 2.2 image
-`2.1` - .NET Core 2.1 image
+| Tag   |  Description        |
+| ----: | :-----------------: |
+| `2.2` | .NET Core 2.2 image |
+| `2.1` | .NET Core 2.1 image |
